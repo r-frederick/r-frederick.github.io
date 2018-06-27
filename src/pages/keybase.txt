@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/rfrederick
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rfrederick.me
+  * I am rfrederick (https://keybase.io/rfrederick) on keybase.
+  * I have a public key with fingerprint F075 4168 81EB 59B2 B0E2  11C8 C97A 71BA DBF1 D396
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;0101478577a1309d64577ad2e84a40aad787d29e6698d8f60a3c2999a34b006d04630a&quot;,
+            &quot;fingerprint&quot;: &quot;f075416881eb59b2b0e211c8c97a71badbf1d396&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;key_id&quot;: &quot;c97a71badbf1d396&quot;,
+            &quot;kid&quot;: &quot;0101478577a1309d64577ad2e84a40aad787d29e6698d8f60a3c2999a34b006d04630a&quot;,
+            &quot;uid&quot;: &quot;18cff347b6843ff56116232c396ae019&quot;,
+            &quot;username&quot;: &quot;rfrederick&quot;
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;rfrederick.me&quot;,
+            &quot;protocol&quot;: &quot;https:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;ctime&quot;: 1500877952,
+    &quot;expire_in&quot;: 157680000,
+    &quot;prev&quot;: &quot;e195928adc5718781838eb2709fe76af9af3f08939b3de5108f2902d0a2887b0&quot;,
+    &quot;seqno&quot;: 3,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtQVGUY3kUuxshlsqQIU87aYMDAuew55zsrsq2VBAxbUl52ZNzO5TtwBtyz
+e84uoAJdxksMaBiMaM3ErBlRE9UQEphAkYMRFSQx5pBSQ2SyKqGASSKdw9Sv+tn3
+5/ve93ue533ed96aiCWGcGPfbs+pkamhI8b+K5zB4as7sAfhZGEXYtmDFMLFCxYJ
+UPU6CyUBsSAohmJmGpA0zWIEygiUWX8KOARm1oyyrEADWsAZSFEMEIBIoSzB4wzD
+sISZQ1FKQM0UgbJIMiJKrnyouBXJ5dVkRZQmzRgFAAY5kuFwDoU4hvGAZ2iWxjhW
+4ERMIBhKIxbIqs7QzHGsClMkWctpgXPR3n/g/2ffvkU5DPCiSJhpjgJmQhRJCsMo
+nMB5rSQLUYzRgSpUXOxOqKEVUYECVCS+EClPRrR8scRDfbR6L//CpGhxMuJWZK/M
+y0XaV4HX61YtOtW7y61jSyDn/FvFyUkuQRulxiiGiirJLsSCaUjeK+myGImigKYZ
+Ek9GYKlbUqBT0hEkTQFUO3odWKxJQowhtzM4YAWepDFAAwwQAHI4jTIipClWZFiR
+EFHAEAxHCJDEUCDiDIoLKIsDQHMoojfmccmIhdB8svmapirlu1ivT4FIeXhlUFyw
+wRhuCA0J0pfMEH5P9D+bN74xasEmIlEK9pQx9djM929YQ261VEVX37E/+nakOfKD
+s78/8c36x0rSO3uNNmvEXk9XVfXRjxvPPZ+0rrefTTvoT+7o2Mca/bcSjx3M3Js3
+F3G9S7F31OWPxe648sm5tLxHhC0Zq4obL614vXR5yOBvY48/t212aWfcQFh9RTb+
+8/4zW4deXNd1aebX5kJP2Hym7bsTLPeHsynGO5W1MF5ltf1Zd712uO7ZXF9rcODE
+qbbKivRA9kPbPr8R/UxsQx9HPXx/c/xlOkHu3TAxfdtxPGMgb8PFstSJ+4IqMwI1
+gzllvpMeqr8F+7Sxxt++En5LnM+2t55eHdMx4ZLo2IE3i8+uwm7EDXYGwoLkgfiX
+lve9v8YhGj57sOCdq+uvbZ4/f3Xe1JY2PdCxKbQ9/gX7vmBTDxf2nl2t681ifvzp
+wlR3gvuyKXP6iLVhsKHdQfRN3dvzAPnh0DVTVr1h/2x2THtR6sWRiNsHtkSlfpVk
+PfTaElt9xemUnGZlxabj228+rf4wuqAaazpB2Vsn16ycKbmbEJjd6E9P4lrG+bUp
+k8M+perV1rWJdxxfbrU5DjObR+/GvVw7aOvzfjFdHvn1MlMTiOide7dpZFnPvChe
+mJs82qYShxl7Tq6lO7daHd2vflR7c+zJmFe6W2nPpKn5l4xUv3+K2Jm4uyBQuHCo
+tHN4acjqrjOhsnXHXw==
+=H4ia
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rfrederick
+
+==================================================================
